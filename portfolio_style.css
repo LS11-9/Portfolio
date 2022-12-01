@@ -162,7 +162,7 @@ div .overlay_responsive:hover {
 [class="dropdown-item"] {
   color: rgb(17, 17, 94) !important;
   font-weight: 700 !important;
-  font-family: cursive;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .skills {
